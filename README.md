@@ -1,5 +1,5 @@
 # Dataset: *Ex situ* mariculture supports the restoration potential of the endangered seagrass *Zostera capensis*
-## Dataset overview
+## Dataset Overview
 
 Globally, seagrass meadows are experiencing ongoing declines and are increasingly targeted for restoration. Traditional *in situ* restoration techniques involve trade-offs between restoration success and impacts on donor meadows. To overcome these challenges, we present the first assessment of ex situ mariculture of the endangered seagrass *Zostera capensis* to support its restoration in South Africa. Seagrass cores with diameters of 5 cm and 10 cm, including their sediment, were harvested and cultivated in mariculture pools for 195 days. Changes in seagrass leaf length (cm) and shoot density (cm²) were monitored, and the effect of core size on these morphometrics was investigated. This dataset was collected to assess the potential of *ex situ* mariculture as a means to upscale seagrass restoration, as well as to evaluate the influence of core size on seagrass growth.
 
