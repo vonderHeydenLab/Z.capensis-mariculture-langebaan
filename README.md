@@ -20,7 +20,7 @@ Globally, seagrass meadows are experiencing ongoing declines and are increasingl
 | **Dataset Author Name** | **Institutional Affiliation**                                                                                                                                           |
 |--------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | A. Bossert               | Department of Botany and Zoology, School of Climate Studies, Stellenbosch University |
-| K.M. Watson              | Department of Botany and Zoology, Stellenbosch University                                  |
+| K. M. Watson              | Department of Botany and Zoology, Stellenbosch University                                  |
 | A. Ndhlovu              | Department of Botany and Zoology,  School of Climate Studies, Stellenbosch University,  |
 | S. von der Heyden      | Department of Botany and Zoology,  School of Climate Studies, Stellenbosch University,  |
 
