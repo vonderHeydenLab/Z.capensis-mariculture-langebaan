@@ -7,7 +7,7 @@ Globally, seagrass meadows are experiencing ongoing declines and are increasingl
 
 | **Variable**     | **Description**                                                                                                                                          |
 |------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------|
-| `Unit`           | Classification used to differentiate individual mariculture units which house boxes of sediment cores.                                                  |
+| `Pool`           | Classification used to differentiate individual mariculture units which house boxes of sediment cores.                                                  |
 | `Box`            | Identifier for each container used to house seagrass sediment cores (either 5 or 10 cm diameter ⌀).                                                     |
 | `Core`           | Diameter of the seagrass sediment core (5 cm or 10 cm ⌀) from which datapoints were collected.                                                           |
 | `Day`            | Experimental day count (from day 0 to day 195) representing the sampling timepoint.                                                                      |
